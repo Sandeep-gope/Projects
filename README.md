@@ -1,2 +1,2 @@
-# Projects related to Web Dev
+# Below are the branches containing projects related to different topics in Web Development.
 
